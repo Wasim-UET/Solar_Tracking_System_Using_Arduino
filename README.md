@@ -10,4 +10,7 @@ A simple, low-cost single-axis solar tracking system powered by an **Arduino Uno
 - 2x 10k Resistors (Pull-down)
 - Solar Panel
 - Breadboard & Jumper Wires
+### Prerequisites & Libraries
+Make sure you have the standard **Servo** library installed in your Arduino IDE (this is usually pre-installed by default, but you can verify or add it via **Sketch > Include Library > Servo** in the Arduino IDE).
+
 <img width="1280" height="792" alt="circuit diagram" src="https://github.com/user-attachments/assets/76d6e060-69d7-4311-8b16-439ec7fc32e6" />
